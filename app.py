@@ -51,19 +51,4 @@ ax.set_ylabel('Sinh Viên')
 st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: small;'>Người thực hiện: Nguyễn Vũ - MSSV</p>", unsafe_allow_html=True)
-```[cite: 2]
-
-3. Sau khi dán xong, bạn nhìn lên góc trên bên phải, bấm vào nút màu xanh lá **"Commit changes..."** để lưu lại.
-
----
-
-### Bước 2: Tạo file `requirements.txt`
-1. Sau khi lưu xong file `app.py`, bạn bấm vào tên repository của bạn (`quan-ly-diem`) ở góc trên bên trái để quay về trang chủ.
-2. Bấm vào nút **Add file** (hoặc dấu cộng) -> chọn **Create new file**.
-3. Ở ô tên file, đặt tên là: **`requirements.txt`**
-4. Ở nội dung bên dưới, dán đúng 3 dòng này vào:
-   ```text
-   streamlit
-   pandas
-   matplotlib
+st.markdown("<p style='text-align: center; font-size: small;'>Người thực hiện: Trần Ngọc Nguyên Vũ - MSSV: 066208014402</p>", unsafe_allow_html=True)
